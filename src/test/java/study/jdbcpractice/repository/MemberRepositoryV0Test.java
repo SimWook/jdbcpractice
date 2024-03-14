@@ -1,4 +1,4 @@
-package study.jdbcpractice;
+package study.jdbcpractice.repository;
 
 import org.junit.jupiter.api.Test;
 import study.jdbcpractice.domain.Member;
